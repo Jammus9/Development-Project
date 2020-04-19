@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7F70BDE2-7F84-4C5A-BA5C-C17A192DC94B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DXBall PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DXBall\DX_BallTests.cs">
+    <Files>
+      <File FileName="DXBall\DXCollectables.cs" Line="56" Column="7" />
+      <File FileName="DXBall\Form1.cs" Line="104" Column="26" />
+      <File FileName="DXBall\DxSounds.cs" Line="38" Column="1" />
+      <File FileName="DXBall\Ball.cs" Line="275" Column="1" />
+      <File FileName="DXBall\DXLine.cs" Line="26" Column="38" />
+      <File FileName="DXBall\DXLevels.cs" Line="48" Column="7" />
+      <File FileName="DXBall\Properties\Resources.Designer.cs" Line="1" Column="1" />
+      <File FileName="DXBall\OneUp.cs" Line="22" Column="1" />
+      <File FileName="DXBall\LengthenLine.cs" Line="19" Column="4" />
+      <File FileName="DXBall\MultiBall.cs" Line="37" Column="1" />
+      <File FileName="DXBall\Collectables.cs" Line="48" Column="33" />
+      <File FileName="DXBall\ShortenLine.cs" Line="19" Column="4" />
+      <File FileName="DXBall\Speed.cs" Line="26" Column="2" />
+      <File FileName="DXBall\Properties\Resources.resx" Line="231" Column="8" />
+      <File FileName="DXBall\CatchBallCollection.cs" Line="1" Column="1" />
+      <File FileName="DXBall\DX_BallTests.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
